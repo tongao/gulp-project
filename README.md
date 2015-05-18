@@ -1,7 +1,7 @@
-# gulp-project
-自用gulp
-# 目录规划
-```bash
+# gulp 前端自动化自用插件及项目目录规划
+gulp前端自动化自用插件及项目目录规划
+## 目录规划
+```html
 projects/
 ├─── dist #项目生成目录
 |	├─── images
