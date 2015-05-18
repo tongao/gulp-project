@@ -1,0 +1,12 @@
+doctype html
+html(lang="en")
+  head
+    title= pageTitle
+    link(rel="stylesheet" type="text/css" href="css/index.css") 
+  body
+    dl.box
+      dt
+        img(src=item[0].img)
+      dd
+        h3= item[1].title
+        p= item[2].info

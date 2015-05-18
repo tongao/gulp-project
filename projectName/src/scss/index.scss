@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/**
+ * @description  test
+ * @author       Tongao(tongao@yhd.com)
+ * @date         2015-04-28 16:29:22
+ * @update       2015-04-28 16:29:22
+ */
+*{
+	margin:0;
+	padding: 0;
+}
+.box {
+	height: 245px;
+	padding: 40px;
+	dt {
+		float: left;
+		width: 175px;
+		height: 245px;
+		margin-right: 20px;
+	}
+	dd {
+		h3{
+			height: 50px;
+			line-height: 50px;
+		}
+		p{
+			font-size: 14px;
+		}
+
+	}
+}
+
+
+
+
